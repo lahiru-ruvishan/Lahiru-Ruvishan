@@ -3,7 +3,7 @@
  Star Geographic Distribution | Star History |
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lahiru-ruvishan&label=Profile%20views&color=0e75b6&style=flat" alt="lahiru-ruvishan" /> </p>
+<p align="center"> <img src="https://lahiru-ruvishan/ghpvc/?username=lahiru-ruvishan&label=Profile%20views&color=0e75b6&style=flat" alt="lahiru-ruvishan" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lahiru-ruvishan" alt="lahiru-ruvishan" /></a> </p>
 
