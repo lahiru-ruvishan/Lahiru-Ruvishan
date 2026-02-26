@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lahiru Ruvishan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.lahiru-png?activity=stars&repo_id=41986369&image_size=auto" />|
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lahiru-ruvishan" alt="lahiru-ruvishan" /></a> </p>
+|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
