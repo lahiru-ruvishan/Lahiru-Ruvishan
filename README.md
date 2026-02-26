@@ -5,18 +5,18 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lahiru-ruvishan" alt="lahiru-ruvishan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **test**
-
-- 🌱 I’m currently learning **java**
-
-- 📫 How to reach me **inasaralahiru303@gimail.com**
 - <div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 20px></h2>
 
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on **test**
+
+- 🌱 I’m currently learning **java**
+
+- 📫 How to reach me **inasaralahiru303@gimail.com**
 
   
 </p>
