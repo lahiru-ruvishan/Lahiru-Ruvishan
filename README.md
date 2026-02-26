@@ -21,25 +21,4 @@
 <div align="center">
 
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
-<details>
-<summary>Open profile</summary>
-
-<br>
-<div>
-  <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
-  </div>
- 
-  </div>
-</div>
-
-<details>
-<summary>About me</summary>
-
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
-
-<div align="left">
-
-```js
