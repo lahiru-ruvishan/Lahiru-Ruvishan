@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lahiru Ruvishan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiru-ruvishan&label=Profile%20views&color=0e75b6&style=flat" alt="lahiru-ruvishan" /> </p>
+6&style=flat" alt="lahiru-ruvishan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lahiru-ruvishan" alt="lahiru-ruvishan" /></a> </p>
 
